@@ -51,7 +51,7 @@ created () {
   this.user = getUser(id)
 }
 ```
-getUser 可以使用 getter。
+getUser 可以使用 getter, 同时深度克隆。
 
 简不简单，惊不惊喜。
 
