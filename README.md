@@ -5,4 +5,4 @@
 
 # LICENSE
 MIT 
-代码请随便用。文章首发于 segmentfault，保留版权。转载请注明出处 https://segmentfault.com/blog/numa
+代码请随便用。文章首发于 [segmentfault](https://segmentfault.com/blog/numa)，保留版权。转载请注明出处 https://segmentfault.com/blog/numa
